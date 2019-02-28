@@ -1,0 +1,7 @@
+C:\Users\Walef Ismael\Desktop\FrenteDeCaixa\FrenteDeCaixa\bin\Debug\FrenteDeCaixa.exe.config
+C:\Users\Walef Ismael\Desktop\FrenteDeCaixa\FrenteDeCaixa\bin\Debug\FrenteDeCaixa.exe
+C:\Users\Walef Ismael\Desktop\FrenteDeCaixa\FrenteDeCaixa\bin\Debug\FrenteDeCaixa.pdb
+C:\Users\Walef Ismael\Desktop\FrenteDeCaixa\FrenteDeCaixa\obj\Debug\FrenteDeCaixa.csprojAssemblyReference.cache
+C:\Users\Walef Ismael\Desktop\FrenteDeCaixa\FrenteDeCaixa\obj\Debug\FrenteDeCaixa.csproj.CoreCompileInputs.cache
+C:\Users\Walef Ismael\Desktop\FrenteDeCaixa\FrenteDeCaixa\obj\Debug\FrenteDeCaixa.exe
+C:\Users\Walef Ismael\Desktop\FrenteDeCaixa\FrenteDeCaixa\obj\Debug\FrenteDeCaixa.pdb
